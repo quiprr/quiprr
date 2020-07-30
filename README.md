@@ -15,7 +15,7 @@ Here are some projects I plan on completing soon:<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ItHertzSoGood/notiping - an iOS tweak to notify you if a server goes down<br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ItHertzSoGood/(api,short,git,paste).quiprr.dev [private] - a me site with an API, URL shortening, Git, and a paste service.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ItHertzSoGood/(api,short,git,paste).quiprr.dev [private] - a me site with an API, URL shortening, Git, etc.<br>
 <br>
 <h2 align="center"><b>Contact</b></h2>
 <b>Keybase:</b> <a href="https://keybase.io/quiprr"> quiprr</a><br>
