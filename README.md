@@ -21,4 +21,4 @@ Here are some projects I plan on completing soon:<br>
 <b>Keybase:</b> <a href="https://keybase.io/quiprr"> quiprr</a><br>
 <b>Discord:</b> quiprr#8880<br>
 <b>Reddit:</b> <a href="https://reddit.com/u/quiprr"> u/quiprr</a><br>
-<b>E-mail:</b> quiprr@ametrine.dev
+<b>E-mail:</b> <a href="mailto:quiprr@ametrine.dev">quiprr@ametrine.dev</a>
