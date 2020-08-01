@@ -23,4 +23,5 @@ Here are some projects I plan on completing soon:<br>
 <b>Reddit:</b> <a href="https://reddit.com/u/quiprr"> u/quiprr</a><br>
 <b>E-mail:</b> <a href="mailto:quiprr@ametrine.dev">quiprr@ametrine.dev</a>
 <h2 align="center"><b>Note</b></h2>
+<br>
 All of my work is licensed under the GNU Affero General Public License v3.0 license. This includes all of my GitHub repositories with the LICENSE file, but does not include any forks or cloned repositories made by others.
