@@ -1,27 +1,40 @@
-[![quiprr](https://raw.githubusercontent.com/ItHertzSoGood/ItHertzSoGood/master/banner.png)](https://github.com/ItHertzSoGood/)
-<h2 align="center"><b>Hello!</b></h2>
-Hello there! I'm quiprr (or ItHertzSoGood) and I am an iOS/web developer. I am fluent in Shell, Batch, HTML, CSS and am currently learning Objective-C and JavaScript/TypeScript. I try to make cool READMEs too.  
-<h2 align="center"><b>Projects  </b></h2>
-Here are some projects of mine:<br>
+### Hello! I'm quiprr (or ItHertzSoGood)!
+
+## I'm a student and a developer.
+- 🔭 I'm currently learning JavaScript and Objective-C
+- 👯 I’m looking to collaborate with other developers
+- 🥅 My main goal is to contribute more to open source projects
+
+## Contact me:
+[<img align="left" alt="Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/keybase.svg" />][keybase]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ItHertzSoGood/goAmetrine - a multifunction shell script mainly created for ease of assistance<br>
+
+## Languages // Tools
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css3]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="Zsh" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][zsh]  
+
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ItHertzSoGood/giveMeUAC - a privilege escalation batch script for any version of Windows 10<br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ItHertzSoGood/dragon-nic - a New Instance Creator for DragonBuild written in shell to fill that gap<br>
-<br>
-<h2 align="center"><b>Upcoming Projects</b></h2>
-Here are some projects I plan on completing soon:<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ItHertzSoGood/notiping - an iOS tweak to notify you if a server goes down<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://github.com/ItHertzSoGood/(api,short,git,paste).quiprr.dev [private] - a me site with an API, URL shortening, Git, etc.<br>
-<br>
-<h2 align="center"><b>Contact</b></h2>
-<b>Keybase:</b> <a href="https://keybase.io/quiprr"> quiprr</a><br>
-<b>Discord:</b> quiprr#8880<br>
-<b>Reddit:</b> <a href="https://reddit.com/u/quiprr"> u/quiprr</a><br>
-<b>E-mail:</b> <a href="mailto:quiprr@ametrine.dev">quiprr@ametrine.dev</a>
-<h2 align="center"><b>Note</b></h2>
-<br>
-All of my work is licensed under the GNU Affero General Public License v3.0 license. This includes all of my GitHub repositories with the LICENSE file, but does not include any forks or cloned repositories made by others.
+<img align="left" alt="quiprr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItHertzSoGood&show_icons=true&hide_border=true" />
+
+[keybase]: https://keybase.io/quiprr/
+[twitter]: https://twitter.com/quiprr/
+[reddit]: https://reddit.com/u/quiprr/
+[discord]: https://discord.com/
+[vscode]: https://code.visualstudio.com/
+[html5]: https://en.wikipedia.org/wiki/HTML5/
+[css3]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets/
+[javascript]: https://en.wikipedia.org/wiki/JavaScript/
+[nodejs]: https://nodejs.org/en/
+[git]: https://git-scm.com/
+[github]: https://github.com/ItHertzSoGood/
+[zsh]: https://www.zsh.org/
