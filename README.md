@@ -31,7 +31,7 @@
 [keybase]: https://keybase.io/quiprr/
 [twitter]: https://twitter.com/quiprr/
 [reddit]: https://reddit.com/u/quiprr/
-[discord]: https://discord.com/
+[discord]: https://discord.gg/MA7NQJd
 [vscode]: https://code.visualstudio.com/
 [html5]: https://en.wikipedia.org/wiki/HTML5/
 [css3]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets/
