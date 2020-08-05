@@ -4,6 +4,7 @@
 - 🔭 I'm currently learning JavaScript and Objective-C
 - 👯 I’m looking to collaborate with other developers
 - 🥅 My main goal is to contribute more to open source projects
+- [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) All of my work is licensed under the AGPL v3 license.
 
 ## Contact me:
 [<img align="left" alt="Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/keybase.svg" />][keybase]
