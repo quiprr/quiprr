@@ -24,7 +24,8 @@
 
 <br>
 <br>
-<img align="left" alt="quiprr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ItHertzSoGood&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="quiprr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ItHertzSoGood&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt"quiprr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItHertzSoGood" />
 
 [keybase]: https://keybase.io/quiprr/
 [twitter]: https://twitter.com/quiprr/
