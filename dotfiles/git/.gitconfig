@@ -1,0 +1,14 @@
+[user]
+	email = quiprr@ametrine.dev
+	name = quiprr
+	signingkey = F339F8AD4CEE33BA
+[tag]
+	forceSignAnnotated = true
+[commit]
+	gpgsign = false
+[gpg]
+	program = /usr/bin/gpg
+[core]
+	editor = nano
+[pull]
+	rebase = true

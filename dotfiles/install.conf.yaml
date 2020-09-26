@@ -1,0 +1,25 @@
+- defaults:
+    link:
+      create: true
+      relink: true
+    shell:
+      stderr: true
+
+- clean: ['~']
+
+- link:
+    # Shell stuff
+    ~/.zprofile: shell/.zprofile
+    ~/.zshrc: shell/.zshrc
+    ~/.zsh/.antigen.zsh: shell/.antigen.zsh
+    ~/.zsh/.antigenrc: shell/.antigenrc
+
+    # Linters
+    ~/.eslintrc: linters/.eslintrc
+
+    # Git
+    ~/.gitconfig: git/.gitconfig
+    ~/.gitignore: git/.gitignore
+
+- shell:
+  - [git submodule update --init --recursive, Installing Submodules]
