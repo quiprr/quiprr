@@ -1,4 +1,4 @@
-### Hello! I'm quiprr (or ItHertzSoGood)!
+### Hello! I'm quiprr!
 
 ## I'm a student and a developer.
 - 🔭 I'm currently learning JavaScript and Objective-C
@@ -25,8 +25,8 @@
 
 <br>
 <br>
-<img align="left" alt="quiprr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ItHertzSoGood&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt"quiprr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItHertzSoGood" />
+<img align="left" alt="quiprr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=quiprr&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt"quiprr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiprr" />
 
 [keybase]: https://keybase.io/quiprr/
 [twitter]: https://twitter.com/quiprr/
@@ -38,5 +38,5 @@
 [javascript]: https://en.wikipedia.org/wiki/JavaScript/
 [nodejs]: https://nodejs.org/en/
 [git]: https://git-scm.com/
-[github]: https://github.com/ItHertzSoGood/
+[github]: https://github.com/quiprr/
 [zsh]: https://www.zsh.org/
