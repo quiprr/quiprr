@@ -1,3 +1,4 @@
+[![quiprr](.github/banner.png)](https://quiprr.dev/)
 ### Hello, I'm quiprr!
 
 ## I'm a student and a developer.

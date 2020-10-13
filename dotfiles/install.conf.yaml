@@ -13,7 +13,6 @@
     ~/.zshrc: shell/.zshrc
     ~/.zsh/.antigen.zsh: shell/.antigen.zsh
     ~/.zsh/.antigenrc: shell/.antigenrc
-    ~/.aliases: shell/.aliases
 
     # Linters
     ~/.eslintrc: linters/.eslintrc
