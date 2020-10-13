@@ -1,0 +1,17 @@
+# -------
+# Aliases
+# -------
+alias ns='npm start'
+alias start='npm start'
+alias nr='npm run'
+alias run='npm run'
+alias nis='npm i -S'
+alias l="ls"
+alias ll="ls -al"
+alias mc=mkcd
+
+function mkcd() {
+        mkdir $1 && cd $1
+}
+
+alias do='make do'

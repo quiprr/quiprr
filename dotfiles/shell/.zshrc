@@ -5,5 +5,5 @@ antigen init $ZSH_BASE/.antigenrc
 
 source ~/.aliases
 
-export PATH="/usr/local/opt/make/libexec/gnubin:/usr/local/sbin:$PATH"
-export THEOS=~/.theos
+export THEOS=~/theos
+
